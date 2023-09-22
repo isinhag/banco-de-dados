@@ -13,7 +13,7 @@ D -> Delete (Deletar dados)
 INSERT INTO generos (genero) VALUES ('Comédia');
 INSERT INTO generos (genero) VALUES ('Ação');
 INSERT INTO generos (genero)
-VALUES ('Suspense'),('Terror'), ('Aventura'), ('Ficção científica')
+VALUES ('Suspense'),('Terror'), ('Aventura'), ('Ficção científica');
 ```
 <!-- _________________________________ -->
 ## Insert
