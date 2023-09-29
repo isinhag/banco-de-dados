@@ -12,7 +12,7 @@ CREATE DATABASE tecdev_escola_isabela CHARACTER SET utf8mb4;
 
 CREATE TABLE cursos(
     id SMALLINT NOT NULL PRIMARY KEY AUTO_INCREMENT,
-    título VARCHAR(30) NOT NULL,
+    titulo VARCHAR(30) NOT NULL,
     carga_horaria SMALLINT NOT NULL,
     professor_id SMALLINT NOT NULL
 )
